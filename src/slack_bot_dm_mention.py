@@ -1,3 +1,7 @@
+# This is a scafold for a simply slack bot that will respond to
+# - direct messages
+# - mentions in channels (or messages on threads where the bot was previously mentioned)
+
 import os
 import array
 from dotenv import load_dotenv
